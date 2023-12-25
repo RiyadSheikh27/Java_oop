@@ -19,5 +19,5 @@ public class Teacher {
         System.out.println("Name= "+name);
         System.out.println("Number = "+number);
             System.out.println();
-        }
+        }//Riyad
 }
