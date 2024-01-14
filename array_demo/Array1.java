@@ -18,6 +18,7 @@ public class Array1 {
         
         len = number.length;
         System.out.println("Lenth of Array = "+len);
+        //Gitpush
         
     }
 }
