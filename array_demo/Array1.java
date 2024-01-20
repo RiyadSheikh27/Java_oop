@@ -7,6 +7,8 @@ public class Array1 {
         int sum;
         int len;
 
+        //------------
+
         number[0] = 5;
         number[1] = 4;
         number[2] = 6;
