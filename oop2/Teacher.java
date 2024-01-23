@@ -1,7 +1,7 @@
 
 package oop2;
 
-
+//Class Teacher
 public class Teacher {
         String name,gender;
         int number;
